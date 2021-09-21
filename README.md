@@ -1,4 +1,4 @@
-Sign in done and integrated with chat home page. No Sign up feature added yet. The chat app is a very heavy module. takes time to load. 
+FitSpirit is looking for a technology too that will help them to increase engagement with teenage girls via social media channels and participation at their school-based virtual and in-person events
 
 # Getting Started with Create React App
 
