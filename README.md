@@ -1,4 +1,4 @@
-FitSpirit is looking for a technology too that will help them to increase engagement with teenage girls via social media channels and participation at their school-based virtual and in-person events
+FitSpirit is looking for a technology that will help them to increase engagement with teenage girls via social media channels and participation at their school-based virtual and in-person events.
 
 Team name : Lively 
 
