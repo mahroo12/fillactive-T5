@@ -1,5 +1,18 @@
 FitSpirit is looking for a technology too that will help them to increase engagement with teenage girls via social media channels and participation at their school-based virtual and in-person events
 
+Team name : Lively 
+
+Team Members:
+
+Antwan Hakko
+David Nguyen-Huu
+Julian Lussier
+Lucas catchlove
+Mahroo Rahman
+Menglin He
+Shruti Parek
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
