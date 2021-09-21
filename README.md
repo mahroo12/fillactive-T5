@@ -6,10 +6,10 @@ Team Members:
 
 Antwan Hakko, David Nguyen-Huu, Julian Lussier, Lucas Catchlove, Mahroo Rahman, Menglin He, Shruti Parek
 
-#Running Instructions:
+# Running Instructions:
 
--Clone from the branch Mahroo
--npm install
--npm run
+* Clone from the branch Mahroo
+* npm install
+* npm run
 
 
